@@ -1,9 +1,3 @@
-![Language](https://img.shields.io/badge/Language-C%2B%2B17-blue)
-![Algorithm](https://img.shields.io/badge/Algorithm-APSARA-green)
-![Field](https://img.shields.io/badge/Field-Switch%20Scheduling-orange)
-![Metric](https://img.shields.io/badge/Metric-Throughput-important)
-![Model](https://img.shields.io/badge/Model-Input--Queued%20Switch-blueviolet)
-![Status](https://img.shields.io/badge/Status-Academic%20Project-lightgrey)
 
 # 🧠 Implementation and Evaluation of APSARA
 > Developed for the *Architecture of Network Devices* course under the supervision of **Dr. Masoud Sabaei**,  
